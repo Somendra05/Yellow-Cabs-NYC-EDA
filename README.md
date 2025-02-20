@@ -58,9 +58,9 @@ We performed deep-dive visualizations to uncover key business insights:
 
 📌 Next Steps
 
-✅ Build a predictive model to forecast taxi demand based on time & location.
-✅ Optimize fare pricing strategies based on insights from the EDA.
-✅ Explore real-time data to track citywide taxi movement trends.
+✅ Build a predictive model to forecast taxi demand based on time & location.  
+✅ Optimize fare pricing strategies based on insights from the EDA.  
+✅ Explore real-time data to track citywide taxi movement trends.  
 
 📢 Want to contribute or collaborate?
 
